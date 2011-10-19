@@ -1,0 +1,5 @@
+c:\users\tiago\documents\visual studio 2010\Projects\IdiomaQueSeVe\IdiomaQueSeVe\bin\IdiomaQueSeVe.dll
+c:\users\tiago\documents\visual studio 2010\Projects\IdiomaQueSeVe\IdiomaQueSeVe\bin\IdiomaQueSeVe.pdb
+c:\users\tiago\documents\visual studio 2010\Projects\IdiomaQueSeVe\IdiomaQueSeVe\obj\Debug\ResolveAssemblyReference.cache
+c:\users\tiago\documents\visual studio 2010\Projects\IdiomaQueSeVe\IdiomaQueSeVe\obj\Debug\IdiomaQueSeVe.dll
+c:\users\tiago\documents\visual studio 2010\Projects\IdiomaQueSeVe\IdiomaQueSeVe\obj\Debug\IdiomaQueSeVe.pdb
